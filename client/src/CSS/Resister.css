@@ -1,0 +1,49 @@
+#bigBox {
+    height: 100vh;
+    border: 0.2px solid white;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    background-color: #8f8f8f;
+}
+
+.userResister {
+    padding: 2%;
+    margin-top: 2%;
+    border: 2px solid white;
+    width: 35%;
+    color: white;
+    font-weight: bold;
+    margin-left: 34rem;
+    text-align: end;
+    border-radius: 20px;
+    background-color: black;
+}
+
+#userResister {
+    color: white;
+    margin-inline: 37%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.inputs {
+    height: 30px;
+    padding: 1px;
+    border-radius: 5px;
+    margin: 8px;
+    width: 70%;
+}
+
+#logins {
+    margin-inline: 44%;
+    margin-block: 50px;
+}
+
+#btn {
+    margin-right: 25%;
+    background-color: #115fbc;
+    margin: 20px 90px;
+    border-radius: 10px;
+    border-color: white;
+    width: 50%;
+}

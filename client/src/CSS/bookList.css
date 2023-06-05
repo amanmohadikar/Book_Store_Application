@@ -1,0 +1,60 @@
+#bookListBigBox{
+    height: fit-content;
+    border: 0.2px solid white;
+    background-color: white;
+    background-repeat: repeat;
+    background-size: 100% 100vh;
+    
+    font-family: 'Aboreto', cursive;
+    
+}
+#allList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.itemBox{
+    padding: 2vh;
+    margin: 3vh;
+    width: 40vh;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #eef3f4;
+    border-radius:1vh ;
+    justify-content: center;
+    align-items: center;
+}
+.itemBox:hover{
+    box-shadow: 0 0 10px 2px rgba(69, 104, 104, 0.1);
+}
+
+#books{
+    width: 20vh;
+    height: 20vh;
+}
+#btn2{
+    background-color: rgb(255, 255, 255);
+    width: 5rem;
+    margin-top: 14px;
+    border-radius: 6px;
+}
+#btn2:hover{
+    background-color: rgb(16, 229, 9);
+}
+#btn1{
+    background-color: rgb(255, 255, 255);
+    width: 5rem;
+    margin-left: 0px;
+    border-radius: 6px;
+
+}
+#btn1:hover{
+    background-color: rgb(108, 108, 227);
+}
+
+.bt-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

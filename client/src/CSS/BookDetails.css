@@ -1,0 +1,39 @@
+#bigBoxBD {
+    height: fit-content;
+    border: 0.2px solid white;
+    background-repeat: repeat;
+    background-color: #8f8f8f;
+    height: 60rem;
+}
+
+#container {
+    padding: 2vh;
+    margin-top: 2%;
+    width: 50%;
+    height: fit-content;
+    color: rgb(189, 34, 200);
+    margin-left: 28rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(28 28 28 / 20%) 0px 2px 8px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    background-color: #000000;
+    box-shadow: rgba(255, 253, 253, 1) 20px 20px 80px;
+    color: aliceblue;
+}
+
+.imputCB {
+    margin: 2vh;
+    border: 5px;
+}
+
+.btn22 {
+    margin: 10px;
+}

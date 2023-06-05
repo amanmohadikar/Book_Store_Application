@@ -1,0 +1,31 @@
+#navBox{
+    height: 10vh;
+    font-weight: bold;
+    border: 2px solid white;
+    /* background-image: url(https://png.pngtree.com/background/20220729/original/pngtree-ebook-reader-application-banner-ereader-picture-image_1868437.jpg); */
+}
+
+#logoImg{
+    width: 9vh;
+    height: 9vh;
+    margin-right: 5vh;
+}
+
+#loginBtn{
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 0.5px 5px 0.5px 5px;
+    margin-right: 2vh;
+    border-radius: 7px;
+    color: black;
+}
+
+
+#loginBtn:hover{
+    background-color: rgb(84, 173, 228);
+}
+
+.nav-link{
+    font-size: 20px;
+}

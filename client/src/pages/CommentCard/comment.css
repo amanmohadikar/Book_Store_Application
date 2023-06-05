@@ -1,0 +1,58 @@
+.comment-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+
+}
+
+.comment-pic{
+    width: 3rem;
+    height:3rem;
+    border-radius:50%;
+}
+/* .add-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: baseline;
+
+} */
+.d{
+    margin-right: 8px;
+    font-family: 'Aboreto', cursive;
+}
+.p{
+    font-family: 'Aboreto', cursive;
+}
+.dle{
+    margin-top: 2px;
+    color: black;
+}
+.dle:hover{
+    background-color: red;
+}
+.up{
+    color: black;
+}
+.writey{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    width: 50rem;
+}
+
+.add-btn{
+    margin-left: 30rem;
+}
+.comment-user{
+    margin-left: 2rem;
+   
+}
+.comment-pic{
+    margin-right: 7rem;
+}
+.rate{
+    background-color: green;
+    color: white;
+}
