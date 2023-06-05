@@ -4,7 +4,7 @@ This is a Book Store Web Application built using the MERN stack. It allows users
 
 ## Features
 
-- User authentication and authorization (signup, login)
+- User authentication and authorization (login)
 - View All book details
 - Others can add review and comment on books
 - Users can delete their own book
