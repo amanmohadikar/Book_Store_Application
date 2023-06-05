@@ -1,4 +1,4 @@
-# Library Management System (MERN Stack)
+# Book Store Application (MERN Stack)
 
 This is a Book Store Web Application built using the MERN stack. It allows users to browse and search for books and return books, and manage their library accounts.
 
