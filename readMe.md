@@ -28,7 +28,7 @@ This is a Book Store Web Application built using the MERN stack. It allows users
 4. Navigate to the client directory: `cd client`
 5. Install client dependencies: `npm install`
 6. Start the frontend server: `npm start`
-7. Open another yerminal command : 
+7. Open another terminal command : 
 8. Navigate to the server directory: `cd server`
 9. Install server dependencies: `npm install`
 19. Start the backend server: `npx nodemon index.js`
